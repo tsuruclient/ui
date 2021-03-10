@@ -2,7 +2,7 @@
   "name": "tempestclient",
   "version": "0.1.0",
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "dependencies": {
     "@material-ui/core": "4.11.3",
@@ -91,7 +91,7 @@
     "@types/crypto-js": "4.0.1",
     "@types/form-urlencoded": "2.0.1",
     "@types/jest": "26.0.20",
-    "@types/node": "14.14.31",
+    "@types/node": "14.14.33",
     "@types/normalizr": "2.0.18",
     "@types/react": "17.0.3",
     "@types/react-beautiful-dnd": "13.0.0",
